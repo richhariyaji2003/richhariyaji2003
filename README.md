@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learned Frontend Developement📚 I'm currently learning Machine Learning Deep Learning and its Algorithms<br>🎯 Goals: Build Stock Market Prediction Model <br>🎲 Fun fact: Learning Machine Algorithm make better day to day in life</p>
+<p align="left">✨ Learned Frontend Developement📚 I'm currently learning Machine Learning Deep Learning and its Algorithms<br>🎯 Goals: Build Stock Market Prediction Model <br>🎲 Fun fact: Learning Machine Algorithm make Better Day to Day life Experience</p>
 
 ###
 
